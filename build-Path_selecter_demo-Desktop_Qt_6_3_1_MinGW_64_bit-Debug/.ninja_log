@@ -1,0 +1,15 @@
+# ninja log v5
+1	851	6817324989223221	Path_selecter_demo_autogen/timestamp	26a17bbe1fb029d0
+1	851	6817324989223221	Path_selecter_demo_autogen/mocs_compilation.cpp	26a17bbe1fb029d0
+1	851	6817324989223221	E:/WorkingData/Evaluate_Project/Path_selecter/build-Path_selecter_demo-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Path_selecter_demo_autogen/timestamp	26a17bbe1fb029d0
+1	851	6817324989223221	E:/WorkingData/Evaluate_Project/Path_selecter/build-Path_selecter_demo-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Path_selecter_demo_autogen/mocs_compilation.cpp	26a17bbe1fb029d0
+851	2663	6817325008827590	CMakeFiles/Path_selecter_demo.dir/Path_selecter_demo_autogen/mocs_compilation.cpp.obj	a03bb7822623008
+856	2707	6817325009267689	CMakeFiles/Path_selecter_demo.dir/main.cpp.obj	c95b571df91296a7
+854	3068	6817325012878490	CMakeFiles/Path_selecter_demo.dir/mainwindow.cpp.obj	f387d66e41eaf171
+3069	3264	6817325014808917	Path_selecter_demo.exe	cd29c1eedcf4bbcd
+11	226	6817325147364152	Path_selecter_demo_autogen/timestamp	26a17bbe1fb029d0
+11	226	6817325147364152	Path_selecter_demo_autogen/mocs_compilation.cpp	26a17bbe1fb029d0
+11	226	6817325147364152	E:/WorkingData/Evaluate_Project/Path_selecter/build-Path_selecter_demo-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Path_selecter_demo_autogen/timestamp	26a17bbe1fb029d0
+11	226	6817325147364152	E:/WorkingData/Evaluate_Project/Path_selecter/build-Path_selecter_demo-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Path_selecter_demo_autogen/mocs_compilation.cpp	26a17bbe1fb029d0
+236	2356	6817325168668926	CMakeFiles/Path_selecter_demo.dir/mainwindow.cpp.obj	f387d66e41eaf171
+2357	2563	6817325170707098	Path_selecter_demo.exe	cd29c1eedcf4bbcd
